@@ -1,2 +1,2 @@
 # geojson-sandbox
-this is a place where i'm previewing geoJSON files as i get a feel for the format
+Uploading here and previewing on github.com is still the best way I've found so far for previewing large .geoJSON files.
